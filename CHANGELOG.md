@@ -1,7 +1,7 @@
 # [1.3.0](https://github.com/vobi-io/myid-backend/compare/v1.2.0...v1.3.0) (2021-02-18)
 
 
-### Features 
+### Features
 
 * fix payments ([4d58d99](https://github.com/vobi-io/myid-backend/commit/4d58d99cf1c3f7ee406e2109db3dbd68ae3a88b9))
 * update payments ([0bb51da](https://github.com/vobi-io/myid-backend/commit/0bb51da403a0d581b1a8f2faaf4a9fa6bc41cf13))
