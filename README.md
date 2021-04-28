@@ -1,3 +1,50 @@
+# [1.4.0](https://github.com/vobi-io/myid-backend/compare/v1.3.0...v1.4.0) (2021-04-27)
+
+
+### Bug Fixes
+
+* country_name for ip service ([57bf350](https://github.com/vobi-io/myid-backend/commit/57bf350d624c37dc13069a5a08117eec2433a61f))
+* ignore .notes filder ([9d1f28c](https://github.com/vobi-io/myid-backend/commit/9d1f28c59830ba656b4b0749ebf0c8775c2c3694))
+* missing 2d selfie image ([37c7bd8](https://github.com/vobi-io/myid-backend/commit/37c7bd84932ffa8713754b8c3c75501256686e39))
+* missing query string parameter for language ([37274b1](https://github.com/vobi-io/myid-backend/commit/37274b155fdf55fe48da34f5f98590338b722886))
+* missing selfie ([0cfc8bb](https://github.com/vobi-io/myid-backend/commit/0cfc8bb90fe51869912fc15269bd72b43c70c1c8))
+* slack notification value bug ([4af337a](https://github.com/vobi-io/myid-backend/commit/4af337ab695411449e11dbb21abc296dd9aa3072))
+* socket fail issue for discord service ([8863031](https://github.com/vobi-io/myid-backend/commit/88630316295256b6f9150525f50a299562ab5761))
+* tesst on prepush ([ef35909](https://github.com/vobi-io/myid-backend/commit/ef359095e0e2cc47d0ff7de6a52b90ec4441124e))
+* typo ([09967eb](https://github.com/vobi-io/myid-backend/commit/09967eb14f28004e539fb37604940b6a3a32d65c))
+* update highrisk countries issue ([e1cdf81](https://github.com/vobi-io/myid-backend/commit/e1cdf81774cb9ed59569b8b67ea81609ca15d2fb))
+
+
+### Features
+
+* 2d liveness ([6dbfdb4](https://github.com/vobi-io/myid-backend/commit/6dbfdb49855ae53db6f0b2fcd8129a94bb85dc17))
+* aws compare ([c925cb8](https://github.com/vobi-io/myid-backend/commit/c925cb8825488201de21f313a85cec7f8829e61e))
+* company auth ([a4e8e8c](https://github.com/vobi-io/myid-backend/commit/a4e8e8c81c33629be8cf33c2f9fd8432d3d50c91))
+* custom document flow ([f7b8eec](https://github.com/vobi-io/myid-backend/commit/f7b8eecf416b55ce56c1aa848822627cd08776e6))
+* customized process ([3503e01](https://github.com/vobi-io/myid-backend/commit/3503e019f3e02d00867c8a6cd76e1dedea1817a0))
+* deactivate company ([35bc85a](https://github.com/vobi-io/myid-backend/commit/35bc85aea80a9a6960b3ca11fc319aa216377b45))
+* deactivate company with password ([eae2ac9](https://github.com/vobi-io/myid-backend/commit/eae2ac90022b080cda9ffbbb13777edda8b12b67))
+* discord bot auth ([3b61e21](https://github.com/vobi-io/myid-backend/commit/3b61e211657e727f3e3eec29a92908ffe1a0f5fe))
+* document settings ([6faa909](https://github.com/vobi-io/myid-backend/commit/6faa909c4d9319a6aae7855777e13aba71549512))
+* document upload ([0a54b7a](https://github.com/vobi-io/myid-backend/commit/0a54b7a17e1e0c301b7dc6e609a46ff30bff271c))
+* fix ([4036053](https://github.com/vobi-io/myid-backend/commit/4036053ba6b5612e81f44c154ce04cd0473868f5))
+* fonts schema ([18efd21](https://github.com/vobi-io/myid-backend/commit/18efd21aa606bf42efd5c5a11d18f8951422cd17))
+* general refactor, company language ([0cc3e8e](https://github.com/vobi-io/myid-backend/commit/0cc3e8e900bdf8317b80959c955894e0cd549431))
+* generate keys ([0f4785b](https://github.com/vobi-io/myid-backend/commit/0f4785b278a0ae14cd8e7d47f0b6d37f6599ba0a))
+* include IP Check service ([e82683a](https://github.com/vobi-io/myid-backend/commit/e82683a1101968266225be3e83536e5b99229475))
+* Introducing compdoc ([d99d7a2](https://github.com/vobi-io/myid-backend/commit/d99d7a2b8cfe30eb65ebd10d82bd3c99754d6aad))
+* Introducing compdoc ([32891c3](https://github.com/vobi-io/myid-backend/commit/32891c32b5752fc93f4580a01c0ee27a10478e0c))
+* make set key default ([a135b1c](https://github.com/vobi-io/myid-backend/commit/a135b1c5b908d2f5e64d73083a31b6b5b5e82517))
+* merge attempts ([53eebdb](https://github.com/vobi-io/myid-backend/commit/53eebdbd7a63dabd43f74882cb8209e0f64d15eb))
+* mind url for comporession ([712cc8a](https://github.com/vobi-io/myid-backend/commit/712cc8a34f3230898207e31da4eb09491c6b7b83))
+* missing docs and refactor ([1e88c4b](https://github.com/vobi-io/myid-backend/commit/1e88c4b7382cd2bb78014f78943df9ece44127dd))
+* rejected countries ([8255624](https://github.com/vobi-io/myid-backend/commit/8255624f871a762a60ff3610c930f1822a6793ca))
+* session images ([58052aa](https://github.com/vobi-io/myid-backend/commit/58052aa48b303139e4b2d02c7380a3b39ddc76a6))
+* slack app integration ([ffbb1d0](https://github.com/vobi-io/myid-backend/commit/ffbb1d09f4acbced695fa77b44ea8f36990ebe89))
+* slack last month, current month stats ([2be5dc0](https://github.com/vobi-io/myid-backend/commit/2be5dc0c64477e38a6b421f3e4beb0147812239a))
+* update default company language ([242351a](https://github.com/vobi-io/myid-backend/commit/242351afd36bbbc16af37b9aa1b54d9b314ae373))
+* user,company test ([0e061b0](https://github.com/vobi-io/myid-backend/commit/0e061b01c8438601b232534ed2021c03af01ca44))
+
 # [1.3.0](https://github.com/vobi-io/myid-backend/compare/v1.2.0...v1.3.0) (2021-02-18)
 
 
