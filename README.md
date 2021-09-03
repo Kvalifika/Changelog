@@ -26,6 +26,20 @@
 * payment activities ([644f7a0](https://github.com/vobi-io/myid-backend/commit/644f7a08b144093e1692fdfce4c60f9cf1b85c1d))
 * session id key on generate verification ([238ed23](https://github.com/vobi-io/myid-backend/commit/238ed23986526d9e38a760f11ec8d0edee997708))
 
+# [1.6.0](https://github.com/vobi-io/myid-backend/compare/v1.5.0...v1.6.0) (2021-09-03)
+
+
+### Bug Fixes
+
+* invalid url for advanced verification ([13a7785](https://github.com/vobi-io/myid-backend/commit/13a7785fa712d80f25c17a3c6a6e1e0f5598516d))
+* optimize csv download speed & fix strange number formatting error ([41120b9](https://github.com/vobi-io/myid-backend/commit/41120b936e9146d2984a6dbe4969cd8e00aaef8d))
+
+
+### Features
+
+* payment activities ([644f7a0](https://github.com/vobi-io/myid-backend/commit/644f7a08b144093e1692fdfce4c60f9cf1b85c1d))
+* session id key on generate verification ([238ed23](https://github.com/vobi-io/myid-backend/commit/238ed23986526d9e38a760f11ec8d0edee997708))
+
 # [1.5.0](https://github.com/vobi-io/myid-backend/compare/v1.4.0...v1.5.0) (2021-08-09)
 
 
