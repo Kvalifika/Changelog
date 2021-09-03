@@ -1,3 +1,278 @@
+# [1.6.0](https://github.com/vobi-io/myid-backend/compare/v1.5.0...v1.6.0) (2021-09-03)
+
+
+### Bug Fixes
+
+* invalid url for advanced verification ([13a7785](https://github.com/vobi-io/myid-backend/commit/13a7785fa712d80f25c17a3c6a6e1e0f5598516d))
+* optimize csv download speed & fix strange number formatting error ([41120b9](https://github.com/vobi-io/myid-backend/commit/41120b936e9146d2984a6dbe4969cd8e00aaef8d))
+
+
+### Features
+
+* payment activities ([644f7a0](https://github.com/vobi-io/myid-backend/commit/644f7a08b144093e1692fdfce4c60f9cf1b85c1d))
+* session id key on generate verification ([238ed23](https://github.com/vobi-io/myid-backend/commit/238ed23986526d9e38a760f11ec8d0edee997708))
+
+# [1.6.0](https://github.com/vobi-io/myid-backend/compare/v1.5.0...v1.6.0) (2021-09-03)
+
+
+### Bug Fixes
+
+* invalid url for advanced verification ([13a7785](https://github.com/vobi-io/myid-backend/commit/13a7785fa712d80f25c17a3c6a6e1e0f5598516d))
+* optimize csv download speed & fix strange number formatting error ([41120b9](https://github.com/vobi-io/myid-backend/commit/41120b936e9146d2984a6dbe4969cd8e00aaef8d))
+
+
+### Features
+
+* payment activities ([644f7a0](https://github.com/vobi-io/myid-backend/commit/644f7a08b144093e1692fdfce4c60f9cf1b85c1d))
+* session id key on generate verification ([238ed23](https://github.com/vobi-io/myid-backend/commit/238ed23986526d9e38a760f11ec8d0edee997708))
+
+# [1.5.0](https://github.com/vobi-io/myid-backend/compare/v1.4.0...v1.5.0) (2021-08-09)
+
+
+### Bug Fixes
+
+* add weveriffy user email in modal ([cb1658b](https://github.com/vobi-io/myid-backend/commit/cb1658b022c15923fc2abcbdaddf65b8e95581d3))
+* calculate verification count last one month ([5df6d1f](https://github.com/vobi-io/myid-backend/commit/5df6d1f67f95e61c502678f822c38fa64ab22793))
+* continue verification process if companny is not weverify ([3771324](https://github.com/vobi-io/myid-backend/commit/377132402c32cf33159855e30afeebfb4959ff88))
+* creating user feedback ([008c9b2](https://github.com/vobi-io/myid-backend/commit/008c9b264302bce31e931518a3613b83170652b2))
+* credentials update ([812dd7f](https://github.com/vobi-io/myid-backend/commit/812dd7fd9fd1a4ebbcca0dab7f910f4a29a1b592))
+* eslint error ([a9667ac](https://github.com/vobi-io/myid-backend/commit/a9667ac5f322c38d488d672f5978d100d7dd05f0))
+* feedback reolver fix ([cd46b4b](https://github.com/vobi-io/myid-backend/commit/cd46b4b5cdc5e20f0876b7e19392fffa1d7aa651))
+* identity field sentry error ([761cc58](https://github.com/vobi-io/myid-backend/commit/761cc58c3a7b6c8974dfb6cf311c35d4ac352209))
+* missing captcha token ([6dffacc](https://github.com/vobi-io/myid-backend/commit/6dffacc5679c97541a90a1450e14b8f9911351e9))
+* mobile image upload ([804ebc6](https://github.com/vobi-io/myid-backend/commit/804ebc6cd1522cbe77969d03b2de47b3186ff75e))
+* passport mrz bug ([6e9841e](https://github.com/vobi-io/myid-backend/commit/6e9841e88dd9df69388e32f21f9fa357be424fe9))
+* pdf document type ([9f609be](https://github.com/vobi-io/myid-backend/commit/9f609be0919b45734cbb839a5e27a6bc99260cec))
+* pdf far rate render issue ([425a069](https://github.com/vobi-io/myid-backend/commit/425a0690353f1600d338a3969815405956394849))
+* release tag build error ([0845422](https://github.com/vobi-io/myid-backend/commit/084542270df26de775ff31d12785af78fc0d74f1))
+* remove unnecessary dependency ([1251191](https://github.com/vobi-io/myid-backend/commit/1251191a66a88b7fb62183b01b47782b01e34679))
+* reset default for logo & incorect id status in pdf ([75763cf](https://github.com/vobi-io/myid-backend/commit/75763cfdbd7f42bed770484d11dfd8a6f8cc1ace))
+* send details issue ([de89e47](https://github.com/vobi-io/myid-backend/commit/de89e474fbc469145a867029c19e799cd6ae4c96))
+* set verified property as verification status ([845bdf7](https://github.com/vobi-io/myid-backend/commit/845bdf7fdd03a84611407808c3207e310ffc115a))
+* signup test case ([1a98261](https://github.com/vobi-io/myid-backend/commit/1a98261155f21b3f23c6c41461d8bd6bf02a6cdd))
+* update dev.sh ([790ba8a](https://github.com/vobi-io/myid-backend/commit/790ba8a30387a5a0e4967135efc0e17018581c11))
+* update swagger bearer auth ([9df3282](https://github.com/vobi-io/myid-backend/commit/9df3282dd877c2a69c7f8f6539fd212aed86d204))
+* use nest config instead of process.env ([7b36eaf](https://github.com/vobi-io/myid-backend/commit/7b36eaf9538dcc44b67706669054eea39fc371a8))
+* wait images upload ([5eb3aca](https://github.com/vobi-io/myid-backend/commit/5eb3acac36bb1b936c9e155b43f571b26850c187))
+
+
+### Features
+
+* ability to remove customization keyword ([31eb040](https://github.com/vobi-io/myid-backend/commit/31eb04020a1f8051c6d9972f3f007fe7f07b0682))
+* add We verify services and  resolver ([8aa34ff](https://github.com/vobi-io/myid-backend/commit/8aa34ff636c096000db02b8cae405d59ee50f184))
+* add weverify interceptor ([48e5bf4](https://github.com/vobi-io/myid-backend/commit/48e5bf46668f67afd86969a93a8c0ebb3f93022a))
+* added new webhook activities ([906161d](https://github.com/vobi-io/myid-backend/commit/906161dc01e04a700aff4cfd85b1f77dcd8466ca))
+* capture, document upload fields ([bc65bdb](https://github.com/vobi-io/myid-backend/commit/bc65bdb79ab588a5f40345ba89452dbb2b28b463))
+* default session configs ([b855fd0](https://github.com/vobi-io/myid-backend/commit/b855fd0bc56ce67d4b7be2dd5b1f98fcc38fd88e))
+* delete font ([2e718bf](https://github.com/vobi-io/myid-backend/commit/2e718bf6fdfc7a416b8c5b1bce470b6a46cc976a))
+* delete font ([a592779](https://github.com/vobi-io/myid-backend/commit/a5927799034ec45e4d05ad0456534cc3902823d2))
+* delete/restore coompany ([5a12d37](https://github.com/vobi-io/myid-backend/commit/5a12d3783e90f018a19107217fa13bf09a193063))
+* document first page config ([ad06ace](https://github.com/vobi-io/myid-backend/commit/ad06ace23107239aafdab029939b73b4e1ceb202))
+* free trial usage count ([9f33787](https://github.com/vobi-io/myid-backend/commit/9f337879e403f09cf3d9576ed9185a4d973f5373))
+* passport mrz reading ([1f04ef0](https://github.com/vobi-io/myid-backend/commit/1f04ef0ab5e6bf59de83f462930db4782512223c))
+* read mrz data on document back step ([52f566c](https://github.com/vobi-io/myid-backend/commit/52f566c285dc2c36acc6329699835cc5b75e26a6))
+* read qr code on server side ([0e4c7fc](https://github.com/vobi-io/myid-backend/commit/0e4c7fc6744340241352f9df2c023f2d778e4e89))
+* remove force reject ([eef0e03](https://github.com/vobi-io/myid-backend/commit/eef0e0386ddc424f990b1ce6385a6c7ad19b9c8b))
+* reset customization ([0211bfd](https://github.com/vobi-io/myid-backend/commit/0211bfdbb31e4958c2f62318bab773ee53ffb472))
+* russian language support ([b343e94](https://github.com/vobi-io/myid-backend/commit/b343e94d4eca5ee3b770d6dc64f2e748c3cb0b9f))
+* secretkey, appId, sessionId, ownership interceptors ([35f9968](https://github.com/vobi-io/myid-backend/commit/35f9968c77a75651620c39a0b885295d39a72832))
+* shopify endpoint ([7bfc0aa](https://github.com/vobi-io/myid-backend/commit/7bfc0aab98ca715cb0ecca900ddc040741034ee8))
+* slack redirect url ([40c406d](https://github.com/vobi-io/myid-backend/commit/40c406de5860cf826785c8b5f6575a4e713c820f))
+* spain language support ([5fae66b](https://github.com/vobi-io/myid-backend/commit/5fae66be998a3b4e35c59d510584a4323dfbddff))
+* updated activities ([2bb69b0](https://github.com/vobi-io/myid-backend/commit/2bb69b02efad1f85efc016b44939f06198725ac4))
+* updated companies query ([3df7434](https://github.com/vobi-io/myid-backend/commit/3df74342df8c6cb8a70b1787dc138ebb1e760468))
+* updated company service ([53fad6a](https://github.com/vobi-io/myid-backend/commit/53fad6ae8c32c7f8d354aeb2e7f797492f40d70f))
+* updated configs ([26b4fbd](https://github.com/vobi-io/myid-backend/commit/26b4fbd2c5c4cb7b91b5d186ecba545b18574af5))
+* updated custom flow ([3a320fc](https://github.com/vobi-io/myid-backend/commit/3a320fc51956bf7296f629cad775d945bad8a1c3))
+* updated mrz checks ([455d81d](https://github.com/vobi-io/myid-backend/commit/455d81d0d15e966dc2172b46c97009eab45b5a00))
+* updated signup flow ([1314a4a](https://github.com/vobi-io/myid-backend/commit/1314a4a8c98dbffbd6a0cbb51c124abf959534d1))
+* updated subscriptions ([e69a2a5](https://github.com/vobi-io/myid-backend/commit/e69a2a5f2ee72d26176e9e3974ac00f94608bffb))
+* updated subscriptions ([19187cb](https://github.com/vobi-io/myid-backend/commit/19187cb3bf17b53d2f964e7c870b607c7913798e))
+* updated weverify module ([295c903](https://github.com/vobi-io/myid-backend/commit/295c903d50e244efba49c944aa93113da1e6d609))
+* We verify service, sent/receve verifications ([0028574](https://github.com/vobi-io/myid-backend/commit/002857475f0daf1d40cb2dc71ff43ac0a518021d))
+
+# [1.5.0](https://github.com/vobi-io/myid-backend/compare/v1.4.0...v1.5.0) (2021-08-09)
+
+
+### Bug Fixes
+
+* add weveriffy user email in modal ([cb1658b](https://github.com/vobi-io/myid-backend/commit/cb1658b022c15923fc2abcbdaddf65b8e95581d3))
+* calculate verification count last one month ([5df6d1f](https://github.com/vobi-io/myid-backend/commit/5df6d1f67f95e61c502678f822c38fa64ab22793))
+* continue verification process if companny is not weverify ([3771324](https://github.com/vobi-io/myid-backend/commit/377132402c32cf33159855e30afeebfb4959ff88))
+* creating user feedback ([008c9b2](https://github.com/vobi-io/myid-backend/commit/008c9b264302bce31e931518a3613b83170652b2))
+* credentials update ([812dd7f](https://github.com/vobi-io/myid-backend/commit/812dd7fd9fd1a4ebbcca0dab7f910f4a29a1b592))
+* eslint error ([a9667ac](https://github.com/vobi-io/myid-backend/commit/a9667ac5f322c38d488d672f5978d100d7dd05f0))
+* feedback reolver fix ([cd46b4b](https://github.com/vobi-io/myid-backend/commit/cd46b4b5cdc5e20f0876b7e19392fffa1d7aa651))
+* identity field sentry error ([761cc58](https://github.com/vobi-io/myid-backend/commit/761cc58c3a7b6c8974dfb6cf311c35d4ac352209))
+* missing captcha token ([6dffacc](https://github.com/vobi-io/myid-backend/commit/6dffacc5679c97541a90a1450e14b8f9911351e9))
+* mobile image upload ([804ebc6](https://github.com/vobi-io/myid-backend/commit/804ebc6cd1522cbe77969d03b2de47b3186ff75e))
+* passport mrz bug ([6e9841e](https://github.com/vobi-io/myid-backend/commit/6e9841e88dd9df69388e32f21f9fa357be424fe9))
+* pdf document type ([9f609be](https://github.com/vobi-io/myid-backend/commit/9f609be0919b45734cbb839a5e27a6bc99260cec))
+* pdf far rate render issue ([425a069](https://github.com/vobi-io/myid-backend/commit/425a0690353f1600d338a3969815405956394849))
+* remove unnecessary dependency ([1251191](https://github.com/vobi-io/myid-backend/commit/1251191a66a88b7fb62183b01b47782b01e34679))
+* reset default for logo & incorect id status in pdf ([75763cf](https://github.com/vobi-io/myid-backend/commit/75763cfdbd7f42bed770484d11dfd8a6f8cc1ace))
+* send details issue ([de89e47](https://github.com/vobi-io/myid-backend/commit/de89e474fbc469145a867029c19e799cd6ae4c96))
+* set verified property as verification status ([845bdf7](https://github.com/vobi-io/myid-backend/commit/845bdf7fdd03a84611407808c3207e310ffc115a))
+* signup test case ([1a98261](https://github.com/vobi-io/myid-backend/commit/1a98261155f21b3f23c6c41461d8bd6bf02a6cdd))
+* update dev.sh ([790ba8a](https://github.com/vobi-io/myid-backend/commit/790ba8a30387a5a0e4967135efc0e17018581c11))
+* update swagger bearer auth ([9df3282](https://github.com/vobi-io/myid-backend/commit/9df3282dd877c2a69c7f8f6539fd212aed86d204))
+* use nest config instead of process.env ([7b36eaf](https://github.com/vobi-io/myid-backend/commit/7b36eaf9538dcc44b67706669054eea39fc371a8))
+* wait images upload ([5eb3aca](https://github.com/vobi-io/myid-backend/commit/5eb3acac36bb1b936c9e155b43f571b26850c187))
+
+
+### Features
+
+* ability to remove customization keyword ([31eb040](https://github.com/vobi-io/myid-backend/commit/31eb04020a1f8051c6d9972f3f007fe7f07b0682))
+* add We verify services and  resolver ([8aa34ff](https://github.com/vobi-io/myid-backend/commit/8aa34ff636c096000db02b8cae405d59ee50f184))
+* add weverify interceptor ([48e5bf4](https://github.com/vobi-io/myid-backend/commit/48e5bf46668f67afd86969a93a8c0ebb3f93022a))
+* added new webhook activities ([906161d](https://github.com/vobi-io/myid-backend/commit/906161dc01e04a700aff4cfd85b1f77dcd8466ca))
+* capture, document upload fields ([bc65bdb](https://github.com/vobi-io/myid-backend/commit/bc65bdb79ab588a5f40345ba89452dbb2b28b463))
+* default session configs ([b855fd0](https://github.com/vobi-io/myid-backend/commit/b855fd0bc56ce67d4b7be2dd5b1f98fcc38fd88e))
+* delete font ([2e718bf](https://github.com/vobi-io/myid-backend/commit/2e718bf6fdfc7a416b8c5b1bce470b6a46cc976a))
+* delete font ([a592779](https://github.com/vobi-io/myid-backend/commit/a5927799034ec45e4d05ad0456534cc3902823d2))
+* delete/restore coompany ([5a12d37](https://github.com/vobi-io/myid-backend/commit/5a12d3783e90f018a19107217fa13bf09a193063))
+* document first page config ([ad06ace](https://github.com/vobi-io/myid-backend/commit/ad06ace23107239aafdab029939b73b4e1ceb202))
+* free trial usage count ([9f33787](https://github.com/vobi-io/myid-backend/commit/9f337879e403f09cf3d9576ed9185a4d973f5373))
+* passport mrz reading ([1f04ef0](https://github.com/vobi-io/myid-backend/commit/1f04ef0ab5e6bf59de83f462930db4782512223c))
+* read mrz data on document back step ([52f566c](https://github.com/vobi-io/myid-backend/commit/52f566c285dc2c36acc6329699835cc5b75e26a6))
+* read qr code on server side ([0e4c7fc](https://github.com/vobi-io/myid-backend/commit/0e4c7fc6744340241352f9df2c023f2d778e4e89))
+* remove force reject ([eef0e03](https://github.com/vobi-io/myid-backend/commit/eef0e0386ddc424f990b1ce6385a6c7ad19b9c8b))
+* reset customization ([0211bfd](https://github.com/vobi-io/myid-backend/commit/0211bfdbb31e4958c2f62318bab773ee53ffb472))
+* russian language support ([b343e94](https://github.com/vobi-io/myid-backend/commit/b343e94d4eca5ee3b770d6dc64f2e748c3cb0b9f))
+* secretkey, appId, sessionId, ownership interceptors ([35f9968](https://github.com/vobi-io/myid-backend/commit/35f9968c77a75651620c39a0b885295d39a72832))
+* shopify endpoint ([7bfc0aa](https://github.com/vobi-io/myid-backend/commit/7bfc0aab98ca715cb0ecca900ddc040741034ee8))
+* slack redirect url ([40c406d](https://github.com/vobi-io/myid-backend/commit/40c406de5860cf826785c8b5f6575a4e713c820f))
+* spain language support ([5fae66b](https://github.com/vobi-io/myid-backend/commit/5fae66be998a3b4e35c59d510584a4323dfbddff))
+* updated activities ([2bb69b0](https://github.com/vobi-io/myid-backend/commit/2bb69b02efad1f85efc016b44939f06198725ac4))
+* updated companies query ([3df7434](https://github.com/vobi-io/myid-backend/commit/3df74342df8c6cb8a70b1787dc138ebb1e760468))
+* updated company service ([53fad6a](https://github.com/vobi-io/myid-backend/commit/53fad6ae8c32c7f8d354aeb2e7f797492f40d70f))
+* updated configs ([26b4fbd](https://github.com/vobi-io/myid-backend/commit/26b4fbd2c5c4cb7b91b5d186ecba545b18574af5))
+* updated custom flow ([3a320fc](https://github.com/vobi-io/myid-backend/commit/3a320fc51956bf7296f629cad775d945bad8a1c3))
+* updated mrz checks ([455d81d](https://github.com/vobi-io/myid-backend/commit/455d81d0d15e966dc2172b46c97009eab45b5a00))
+* updated signup flow ([1314a4a](https://github.com/vobi-io/myid-backend/commit/1314a4a8c98dbffbd6a0cbb51c124abf959534d1))
+* updated subscriptions ([e69a2a5](https://github.com/vobi-io/myid-backend/commit/e69a2a5f2ee72d26176e9e3974ac00f94608bffb))
+* updated subscriptions ([19187cb](https://github.com/vobi-io/myid-backend/commit/19187cb3bf17b53d2f964e7c870b607c7913798e))
+* updated weverify module ([295c903](https://github.com/vobi-io/myid-backend/commit/295c903d50e244efba49c944aa93113da1e6d609))
+* We verify service, sent/receve verifications ([0028574](https://github.com/vobi-io/myid-backend/commit/002857475f0daf1d40cb2dc71ff43ac0a518021d))
+
+# [1.5.0](https://github.com/vobi-io/myid-backend/compare/v1.4.0...v1.5.0) (2021-07-16)
+
+
+### Bug Fixes
+
+* add weveriffy user email in modal ([cb1658b](https://github.com/vobi-io/myid-backend/commit/cb1658b022c15923fc2abcbdaddf65b8e95581d3))
+* calculate verification count last one month ([5df6d1f](https://github.com/vobi-io/myid-backend/commit/5df6d1f67f95e61c502678f822c38fa64ab22793))
+* continue verification process if companny is not weverify ([3771324](https://github.com/vobi-io/myid-backend/commit/377132402c32cf33159855e30afeebfb4959ff88))
+* creating user feedback ([008c9b2](https://github.com/vobi-io/myid-backend/commit/008c9b264302bce31e931518a3613b83170652b2))
+* credentials update ([812dd7f](https://github.com/vobi-io/myid-backend/commit/812dd7fd9fd1a4ebbcca0dab7f910f4a29a1b592))
+* eslint error ([a9667ac](https://github.com/vobi-io/myid-backend/commit/a9667ac5f322c38d488d672f5978d100d7dd05f0))
+* feedback reolver fix ([cd46b4b](https://github.com/vobi-io/myid-backend/commit/cd46b4b5cdc5e20f0876b7e19392fffa1d7aa651))
+* identity field sentry error ([761cc58](https://github.com/vobi-io/myid-backend/commit/761cc58c3a7b6c8974dfb6cf311c35d4ac352209))
+* missing captcha token ([6dffacc](https://github.com/vobi-io/myid-backend/commit/6dffacc5679c97541a90a1450e14b8f9911351e9))
+* mobile image upload ([804ebc6](https://github.com/vobi-io/myid-backend/commit/804ebc6cd1522cbe77969d03b2de47b3186ff75e))
+* passport mrz bug ([6e9841e](https://github.com/vobi-io/myid-backend/commit/6e9841e88dd9df69388e32f21f9fa357be424fe9))
+* pdf document type ([9f609be](https://github.com/vobi-io/myid-backend/commit/9f609be0919b45734cbb839a5e27a6bc99260cec))
+* remove unnecessary dependency ([1251191](https://github.com/vobi-io/myid-backend/commit/1251191a66a88b7fb62183b01b47782b01e34679))
+* reset default for logo & incorect id status in pdf ([75763cf](https://github.com/vobi-io/myid-backend/commit/75763cfdbd7f42bed770484d11dfd8a6f8cc1ace))
+* send details issue ([de89e47](https://github.com/vobi-io/myid-backend/commit/de89e474fbc469145a867029c19e799cd6ae4c96))
+* signup test case ([1a98261](https://github.com/vobi-io/myid-backend/commit/1a98261155f21b3f23c6c41461d8bd6bf02a6cdd))
+* update swagger bearer auth ([9df3282](https://github.com/vobi-io/myid-backend/commit/9df3282dd877c2a69c7f8f6539fd212aed86d204))
+* use nest config instead of process.env ([7b36eaf](https://github.com/vobi-io/myid-backend/commit/7b36eaf9538dcc44b67706669054eea39fc371a8))
+* wait images upload ([5eb3aca](https://github.com/vobi-io/myid-backend/commit/5eb3acac36bb1b936c9e155b43f571b26850c187))
+
+
+### Features
+
+* ability to remove customization keyword ([31eb040](https://github.com/vobi-io/myid-backend/commit/31eb04020a1f8051c6d9972f3f007fe7f07b0682))
+* add We verify services and  resolver ([8aa34ff](https://github.com/vobi-io/myid-backend/commit/8aa34ff636c096000db02b8cae405d59ee50f184))
+* add weverify interceptor ([48e5bf4](https://github.com/vobi-io/myid-backend/commit/48e5bf46668f67afd86969a93a8c0ebb3f93022a))
+* capture, document upload fields ([bc65bdb](https://github.com/vobi-io/myid-backend/commit/bc65bdb79ab588a5f40345ba89452dbb2b28b463))
+* default session configs ([b855fd0](https://github.com/vobi-io/myid-backend/commit/b855fd0bc56ce67d4b7be2dd5b1f98fcc38fd88e))
+* delete font ([2e718bf](https://github.com/vobi-io/myid-backend/commit/2e718bf6fdfc7a416b8c5b1bce470b6a46cc976a))
+* delete font ([a592779](https://github.com/vobi-io/myid-backend/commit/a5927799034ec45e4d05ad0456534cc3902823d2))
+* delete/restore coompany ([5a12d37](https://github.com/vobi-io/myid-backend/commit/5a12d3783e90f018a19107217fa13bf09a193063))
+* document first page config ([ad06ace](https://github.com/vobi-io/myid-backend/commit/ad06ace23107239aafdab029939b73b4e1ceb202))
+* free trial usage count ([9f33787](https://github.com/vobi-io/myid-backend/commit/9f337879e403f09cf3d9576ed9185a4d973f5373))
+* passport mrz reading ([1f04ef0](https://github.com/vobi-io/myid-backend/commit/1f04ef0ab5e6bf59de83f462930db4782512223c))
+* read mrz data on document back step ([52f566c](https://github.com/vobi-io/myid-backend/commit/52f566c285dc2c36acc6329699835cc5b75e26a6))
+* read qr code on server side ([0e4c7fc](https://github.com/vobi-io/myid-backend/commit/0e4c7fc6744340241352f9df2c023f2d778e4e89))
+* remove force reject ([eef0e03](https://github.com/vobi-io/myid-backend/commit/eef0e0386ddc424f990b1ce6385a6c7ad19b9c8b))
+* reset customization ([0211bfd](https://github.com/vobi-io/myid-backend/commit/0211bfdbb31e4958c2f62318bab773ee53ffb472))
+* russian language support ([b343e94](https://github.com/vobi-io/myid-backend/commit/b343e94d4eca5ee3b770d6dc64f2e748c3cb0b9f))
+* secretkey, appId, sessionId, ownership interceptors ([35f9968](https://github.com/vobi-io/myid-backend/commit/35f9968c77a75651620c39a0b885295d39a72832))
+* shopify endpoint ([7bfc0aa](https://github.com/vobi-io/myid-backend/commit/7bfc0aab98ca715cb0ecca900ddc040741034ee8))
+* slack redirect url ([40c406d](https://github.com/vobi-io/myid-backend/commit/40c406de5860cf826785c8b5f6575a4e713c820f))
+* spain language support ([5fae66b](https://github.com/vobi-io/myid-backend/commit/5fae66be998a3b4e35c59d510584a4323dfbddff))
+* updated companies query ([3df7434](https://github.com/vobi-io/myid-backend/commit/3df74342df8c6cb8a70b1787dc138ebb1e760468))
+* updated company service ([53fad6a](https://github.com/vobi-io/myid-backend/commit/53fad6ae8c32c7f8d354aeb2e7f797492f40d70f))
+* updated configs ([26b4fbd](https://github.com/vobi-io/myid-backend/commit/26b4fbd2c5c4cb7b91b5d186ecba545b18574af5))
+* updated custom flow ([3a320fc](https://github.com/vobi-io/myid-backend/commit/3a320fc51956bf7296f629cad775d945bad8a1c3))
+* updated mrz checks ([455d81d](https://github.com/vobi-io/myid-backend/commit/455d81d0d15e966dc2172b46c97009eab45b5a00))
+* updated signup flow ([1314a4a](https://github.com/vobi-io/myid-backend/commit/1314a4a8c98dbffbd6a0cbb51c124abf959534d1))
+* updated subscriptions ([e69a2a5](https://github.com/vobi-io/myid-backend/commit/e69a2a5f2ee72d26176e9e3974ac00f94608bffb))
+* updated subscriptions ([19187cb](https://github.com/vobi-io/myid-backend/commit/19187cb3bf17b53d2f964e7c870b607c7913798e))
+* updated weverify module ([295c903](https://github.com/vobi-io/myid-backend/commit/295c903d50e244efba49c944aa93113da1e6d609))
+* We verify service, sent/receve verifications ([0028574](https://github.com/vobi-io/myid-backend/commit/002857475f0daf1d40cb2dc71ff43ac0a518021d))
+
+# [1.5.0](https://github.com/vobi-io/myid-backend/compare/v1.4.0...v1.5.0) (2021-07-16)
+
+
+### Bug Fixes
+
+* add weveriffy user email in modal ([cb1658b](https://github.com/vobi-io/myid-backend/commit/cb1658b022c15923fc2abcbdaddf65b8e95581d3))
+* calculate verification count last one month ([5df6d1f](https://github.com/vobi-io/myid-backend/commit/5df6d1f67f95e61c502678f822c38fa64ab22793))
+* continue verification process if companny is not weverify ([3771324](https://github.com/vobi-io/myid-backend/commit/377132402c32cf33159855e30afeebfb4959ff88))
+* creating user feedback ([008c9b2](https://github.com/vobi-io/myid-backend/commit/008c9b264302bce31e931518a3613b83170652b2))
+* credentials update ([812dd7f](https://github.com/vobi-io/myid-backend/commit/812dd7fd9fd1a4ebbcca0dab7f910f4a29a1b592))
+* eslint error ([a9667ac](https://github.com/vobi-io/myid-backend/commit/a9667ac5f322c38d488d672f5978d100d7dd05f0))
+* feedback reolver fix ([cd46b4b](https://github.com/vobi-io/myid-backend/commit/cd46b4b5cdc5e20f0876b7e19392fffa1d7aa651))
+* identity field sentry error ([761cc58](https://github.com/vobi-io/myid-backend/commit/761cc58c3a7b6c8974dfb6cf311c35d4ac352209))
+* missing captcha token ([6dffacc](https://github.com/vobi-io/myid-backend/commit/6dffacc5679c97541a90a1450e14b8f9911351e9))
+* mobile image upload ([804ebc6](https://github.com/vobi-io/myid-backend/commit/804ebc6cd1522cbe77969d03b2de47b3186ff75e))
+* passport mrz bug ([6e9841e](https://github.com/vobi-io/myid-backend/commit/6e9841e88dd9df69388e32f21f9fa357be424fe9))
+* pdf document type ([9f609be](https://github.com/vobi-io/myid-backend/commit/9f609be0919b45734cbb839a5e27a6bc99260cec))
+* remove unnecessary dependency ([1251191](https://github.com/vobi-io/myid-backend/commit/1251191a66a88b7fb62183b01b47782b01e34679))
+* reset default for logo & incorect id status in pdf ([75763cf](https://github.com/vobi-io/myid-backend/commit/75763cfdbd7f42bed770484d11dfd8a6f8cc1ace))
+* send details issue ([de89e47](https://github.com/vobi-io/myid-backend/commit/de89e474fbc469145a867029c19e799cd6ae4c96))
+* signup test case ([1a98261](https://github.com/vobi-io/myid-backend/commit/1a98261155f21b3f23c6c41461d8bd6bf02a6cdd))
+* update swagger bearer auth ([9df3282](https://github.com/vobi-io/myid-backend/commit/9df3282dd877c2a69c7f8f6539fd212aed86d204))
+* use nest config instead of process.env ([7b36eaf](https://github.com/vobi-io/myid-backend/commit/7b36eaf9538dcc44b67706669054eea39fc371a8))
+* wait images upload ([5eb3aca](https://github.com/vobi-io/myid-backend/commit/5eb3acac36bb1b936c9e155b43f571b26850c187))
+
+
+### Features
+
+* ability to remove customization keyword ([31eb040](https://github.com/vobi-io/myid-backend/commit/31eb04020a1f8051c6d9972f3f007fe7f07b0682))
+* add We verify services and  resolver ([8aa34ff](https://github.com/vobi-io/myid-backend/commit/8aa34ff636c096000db02b8cae405d59ee50f184))
+* add weverify interceptor ([48e5bf4](https://github.com/vobi-io/myid-backend/commit/48e5bf46668f67afd86969a93a8c0ebb3f93022a))
+* capture, document upload fields ([bc65bdb](https://github.com/vobi-io/myid-backend/commit/bc65bdb79ab588a5f40345ba89452dbb2b28b463))
+* default session configs ([b855fd0](https://github.com/vobi-io/myid-backend/commit/b855fd0bc56ce67d4b7be2dd5b1f98fcc38fd88e))
+* delete font ([2e718bf](https://github.com/vobi-io/myid-backend/commit/2e718bf6fdfc7a416b8c5b1bce470b6a46cc976a))
+* delete font ([a592779](https://github.com/vobi-io/myid-backend/commit/a5927799034ec45e4d05ad0456534cc3902823d2))
+* delete/restore coompany ([5a12d37](https://github.com/vobi-io/myid-backend/commit/5a12d3783e90f018a19107217fa13bf09a193063))
+* document first page config ([ad06ace](https://github.com/vobi-io/myid-backend/commit/ad06ace23107239aafdab029939b73b4e1ceb202))
+* free trial usage count ([9f33787](https://github.com/vobi-io/myid-backend/commit/9f337879e403f09cf3d9576ed9185a4d973f5373))
+* passport mrz reading ([1f04ef0](https://github.com/vobi-io/myid-backend/commit/1f04ef0ab5e6bf59de83f462930db4782512223c))
+* read mrz data on document back step ([52f566c](https://github.com/vobi-io/myid-backend/commit/52f566c285dc2c36acc6329699835cc5b75e26a6))
+* read qr code on server side ([0e4c7fc](https://github.com/vobi-io/myid-backend/commit/0e4c7fc6744340241352f9df2c023f2d778e4e89))
+* remove force reject ([eef0e03](https://github.com/vobi-io/myid-backend/commit/eef0e0386ddc424f990b1ce6385a6c7ad19b9c8b))
+* reset customization ([0211bfd](https://github.com/vobi-io/myid-backend/commit/0211bfdbb31e4958c2f62318bab773ee53ffb472))
+* russian language support ([b343e94](https://github.com/vobi-io/myid-backend/commit/b343e94d4eca5ee3b770d6dc64f2e748c3cb0b9f))
+* secretkey, appId, sessionId, ownership interceptors ([35f9968](https://github.com/vobi-io/myid-backend/commit/35f9968c77a75651620c39a0b885295d39a72832))
+* shopify endpoint ([7bfc0aa](https://github.com/vobi-io/myid-backend/commit/7bfc0aab98ca715cb0ecca900ddc040741034ee8))
+* slack redirect url ([40c406d](https://github.com/vobi-io/myid-backend/commit/40c406de5860cf826785c8b5f6575a4e713c820f))
+* spain language support ([5fae66b](https://github.com/vobi-io/myid-backend/commit/5fae66be998a3b4e35c59d510584a4323dfbddff))
+* updated companies query ([3df7434](https://github.com/vobi-io/myid-backend/commit/3df74342df8c6cb8a70b1787dc138ebb1e760468))
+* updated company service ([53fad6a](https://github.com/vobi-io/myid-backend/commit/53fad6ae8c32c7f8d354aeb2e7f797492f40d70f))
+* updated configs ([26b4fbd](https://github.com/vobi-io/myid-backend/commit/26b4fbd2c5c4cb7b91b5d186ecba545b18574af5))
+* updated custom flow ([3a320fc](https://github.com/vobi-io/myid-backend/commit/3a320fc51956bf7296f629cad775d945bad8a1c3))
+* updated mrz checks ([455d81d](https://github.com/vobi-io/myid-backend/commit/455d81d0d15e966dc2172b46c97009eab45b5a00))
+* updated signup flow ([1314a4a](https://github.com/vobi-io/myid-backend/commit/1314a4a8c98dbffbd6a0cbb51c124abf959534d1))
+* updated subscriptions ([e69a2a5](https://github.com/vobi-io/myid-backend/commit/e69a2a5f2ee72d26176e9e3974ac00f94608bffb))
+* updated subscriptions ([19187cb](https://github.com/vobi-io/myid-backend/commit/19187cb3bf17b53d2f964e7c870b607c7913798e))
+* updated weverify module ([295c903](https://github.com/vobi-io/myid-backend/commit/295c903d50e244efba49c944aa93113da1e6d609))
+* We verify service, sent/receve verifications ([0028574](https://github.com/vobi-io/myid-backend/commit/002857475f0daf1d40cb2dc71ff43ac0a518021d))
+
 # [1.4.0](https://github.com/vobi-io/myid-backend/compare/v1.3.0...v1.4.0) (2021-04-27)
 
 
